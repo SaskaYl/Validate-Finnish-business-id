@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y-tunnuksen validointi", "Y-tunnuksen validointi\Y-tunnuksen validointi.csproj", "{40DB8F7D-78E0-4DAE-BAE1-E225E3A4C86D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40DB8F7D-78E0-4DAE-BAE1-E225E3A4C86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40DB8F7D-78E0-4DAE-BAE1-E225E3A4C86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40DB8F7D-78E0-4DAE-BAE1-E225E3A4C86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40DB8F7D-78E0-4DAE-BAE1-E225E3A4C86D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E470B2D4-BC92-4293-B7D2-F9FD21A71133}
+	EndGlobalSection
+EndGlobal
